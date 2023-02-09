@@ -1,4 +1,5 @@
-NOTE: this is a fork of the work of various people who did 99% of the work. I just did some cleanups, translated to english and fixed various bugs.
+NOTE: this is a fork of the work of various people who did 99.5% of the work.
+Fork to retain a copy of this, but planned development later in 2023/4 to add ethernet support.
 
 # HCPBridge with MQTT + HomeAssistant Support
 ![image](https://user-images.githubusercontent.com/14005124/215204028-66bb0342-6bc2-48dc-ad8e-b08508bdc811.png)
